@@ -1,8 +1,8 @@
 {
-  "name": "diff-to-image",
+  "name": "custom-weights-graph",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://volksrat71.github.io/diff-to-image",
+  "homepage": "https://volksrat71.github.io/custom-weights-graph",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
